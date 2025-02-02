@@ -1,5 +1,12 @@
-- 👋 Hi, I’m Raj Tamboli
-- 
+- 👋 Hi, Raj Tamboli Here,
+- An Computer Engineering Student at PHCET 🧑‍💻
+- Proficient in C, C++, HTML5, CSS, JavaScript, Java and Python🌐
+- 🧑‍💻Bash & Shell scripting pro💡
+- Linux Player too...💻
+-
+- More to go, STAY TUNED.....♾️
+-
+-
 - paypal.me/rajt0026
 - bugcrowd.com/Loop_26
 
