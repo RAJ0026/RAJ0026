@@ -1,147 +1,302 @@
-<!-- ========================================================= -->
-<!--                    GITHUB PROFILE README                  -->
-<!--                Created for: RAJ TAMBOLI                  -->
-<!-- ========================================================= -->
+<!--
+╔══════════════════════════════════════════════════════════════════════════╗
+║                 RAJ TAMBOLI — PREMIUM GITHUB PROFILE README              ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  SETUP CHECKLIST (do these before pushing):                              ║
+║  1. Replace every "RAJ0026" below with your actual GitHub username       ║
+║  2. Confirm your Twitter/X handle — update "rajtamboli" if different     ║
+║  3. Fill in your real project names + repo links in the Projects table   ║
+║  4. Copy both workflow files into  .github/workflows/  in your repo      ║
+║  5. After first push → Actions tab → run each workflow manually once     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═════════════════════════ HERO HEADER ═════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Raj%20Tamboli&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=3rd%20Yr%20CS%20Undergrad%20%7C%20Java%20%26%20Python%20Dev%20%7C%20Linux%20Nerd%20%7C%20Networking%20Savvy&descFontColor=7aa2f7&descAlignY=58&descFontSize=15" />
+
+<br/>
 
 <div align="center">
 
-<!-- Hero Section with Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=300&section=header&text=Raj%20Tamboli&fontSize=60&fontColor=fff&fontAlign=50&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20Java%20%26%20Python%20Enthusiast&descAlign=50&descAlignY=65" width="100%"/>
+<!-- ─── Typing SVG Animation ─── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=48&lines=AI+Engineer+in+the+Making+%F0%9F%A4%96;Java+Developer+%E2%98%95;Full+Stack+Developer+%F0%9F%8C%90;Open+Source+Enthusiast+%F0%9F%90%A7)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ─── Stats Badges ─── -->
+![Profile Views](https://komarev.com/ghpvc/?username=RAJ0026&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/RAJ0026?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b2e)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/RAJ0026?label=Total%20Stars&style=for-the-badge&color=7aa2f7&labelColor=1a1b2e)
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 Animated Typing Bio
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI%20Engineer%20%7C%20Java%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast;Building%20Intelligent%20Software%20Solutions;3rd%20Year%20B.Tech%20Computer%20Engineering%20Student;Transforming%20Ideas%20Into%20Scalable%20Applications" alt="Typing SVG" />
-</a>
-
-</div>
+<br/>
 
 ---
+
+<!-- ═════════════════════════ ABOUT ME ═════════════════════════ -->
 
 ## 👨‍💻 About Me
 
+```bash
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   raj@linux:~$ cat about_me.txt                          │
+│                                                          │
+│   Name      : Raj Tamboli                               │
+│   Role      : B.Tech Computer Engineering (3rd Year)    │
+│   Core      : Java • Spring Boot • Python • C/C++ • JS  │
+│   Specialty : Backend Dev • Bash/Shell • Networking      │
+│   Shell     : Bash 5.x on Linux  (yes, btw I use Linux) │
+│   Email     : rajtamboli.0026@gmail.com                  │
+│   Status    : Learning → Building → Improving → Repeat  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+- 🎓 **3rd Year B.Tech Computer Engineering Student**
+- ☕ **Java (Spring Boot) & Python Developer** — backend is my playground
+- 💻 **Proficient in C, C++, HTML5, CSS & JavaScript**
+- 🐧 **Bash & Shell Scripting Pro** — automation is life
+- 🌐 **Linux Power User | Networking Savvy** — from protocols to subnetting
+- 🤖 **Exploring Generative AI, Docker & Kubernetes**
+- 🚀 **Always learning, always building, always shipping**
+- 📬 Reach me: **rajtamboli.0026@gmail.com**
+
+---
+
+<!-- ═════════════════════════ CURRENT PROJECTS ═════════════════════════ -->
+
+## 🚧 Current Projects
+
+> 🔭 Always building something new — check out my pinned repos!
+
+| 🏗️ Project | 📝 Description | 🔗 |
+|:-----------|:--------------|:---|
+| **Project Name 1** | *(Add a short description here)* | [→ View Repo](https://github.com/RAJ0026/repo-name-1) |
+| **Project Name 2** | *(Add a short description here)* | [→ View Repo](https://github.com/RAJ0026/repo-name-2) |
+| **Project Name 3** | *(Add a short description here)* | [→ View Repo](https://github.com/RAJ0026/repo-name-3) |
+
+---
+
+<!-- ═════════════════════════ CURRENTLY LEARNING ═════════════════════════ -->
+
+## 📚 Currently Learning
+
 <div align="center">
 
-**3rd Year B.Tech Computer Engineering Student** | **Java (Spring Boot) & Python Developer**  
-**Proficient in:** C, C++, HTML5, CSS, JavaScript  
-**Specialties:** Bash & Shell Scripting | Linux | Networking | Full-Stack Development
-
-> *"Code with purpose. Learn relentlessly. Build what matters."*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-🔄 **Currently Learning:**
-- React & React JS
-- Angular
-- Docker & Kubernetes
-- Generative AI & LLMs
-- Advanced Backend Architecture
-
-</div>
-
----
+<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
 <div align="center">
 
-### 💻 Programming Languages
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🎨 Frontend Development
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Flutter](https://skillicons.dev/icons?i=flutter)
+</div>
+</details>
 
-### 🔧 Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://skillicons.dev/icons?i=php)
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+<div align="center">
 
-### 🗄️ Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+</div>
+</details>
 
-### 🛠️ Tools & Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<details open>
+<summary><b>☁️ Cloud & Platforms</b></summary>
+<br/>
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Dev Environment</b></summary>
+<br/>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://skillicons.dev/icons?i=linux)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+</details>
+
+---
+
+<!-- ═════════════════════════ GITHUB STATS ═════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RAJ0026&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=1a1b2e&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" width="48%" alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=RAJ0026&theme=tokyo-night&hide_border=true&background=1a1b2e&stroke=7aa2f7&ring=7dcfff&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" width="48%" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ0026&layout=compact&theme=tokyo-night&hide_border=true&langs_count=10&bg_color=1a1b2e&title_color=7aa2f7&text_color=c0caf5" width="50%" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📚 Current Projects
+<!-- ═════════════════════════ ACTIVITY GRAPH ═════════════════════════ -->
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-**Check out my repositories below for detailed project information**
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Repository Name] | Description here | Java, Spring Boot |
-| [Repository Name] | Description here | Python, React |
-| [Repository Name] | Description here | Full Stack |
-
-*Visit my [GitHub Repositories](https://github.com/RAJ0026?tab=repositories) for all projects*
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAJ0026&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7&color=7dcfff&line=7aa2f7&point=c0caf5&bg_color=1a1b2e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ═════════════════════════ TROPHIES ═════════════════════════ -->
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### GitHub Stats
-![RAJ0026's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAJ0026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ0026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD)
-
-### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=RAJ0026&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-### Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAJ0026&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=4ECDC4&point=70A5FD)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=RAJ0026&theme=tokyonight&no-frame=true&row=1&column=7)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=RAJ0026&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 3️⃣ 3D Contribution Graph
+<!-- ═════════════════════════ 3D CONTRIBUTION GRAPH ═════════════════════════ -->
+
+## 🌐 3D Contribution Calendar
 
 <div align="center">
 
-### My Contribution Timeline
+[![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+</div>
+
+---
+
+<!-- ═════════════════════════ DEV QUOTE ═════════════════════════ -->
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- ═════════════════════════ SNAKE ANIMATION ═════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/RAJ0026/RAJ0026/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/RAJ0026/RAJ0026/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" width="100%"
+       src="https://raw.githubusercontent.com/RAJ0026/RAJ0026/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- ═════════════════════════ CONNECT ═════════════════════════ -->
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RAJ0026)
+[![Twitter / X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rajtamboli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajtamboli.0026@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJ0026)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <i>💡 Open to internships, collabs & open-source contributions — let's build together!</i>
+</div>
+
+---
+
+<!-- ═════════════════════════ FOOTER WAVE ═════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
+  <sub>⭐ Drop a star if you find something useful &nbsp;|&nbsp; Made with ❤️ by Raj Tamboli</sub>
+</div>
