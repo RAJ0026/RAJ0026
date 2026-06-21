@@ -84,96 +84,71 @@
 </div>
 
 ---
-
-<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
-<div align="center">
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Platforms</b></summary>
-<br/>
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-
-</div>
-</details>
-
-<details open>
-<summary><b>🔧 Tools & Dev Environment</b></summary>
-<br/>
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-</details>
-
-<br>
-</br>
+<!-- ═════════════════════════ Tech Stack ═════════════════════════ -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3 style="font-family: 'Roboto Mono', 'Source Code Pro', monospace; font-weight: 600; letter-spacing: 1px; color: #00d4ff; border-bottom: 2px solid #00d4ff; padding-bottom: 5px;">💻 Programming Languages :-</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 style="font-family: 'Roboto Mono', 'Source Code Pro', monospace; font-weight: 600; letter-spacing: 1px; color: #00d4ff; border-bottom: 2px solid #00d4ff; padding-bottom: 5px;">🎨 Frontend Development :-</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 style="font-family: 'Roboto Mono', 'Source Code Pro', monospace; font-weight: 600; letter-spacing: 1px; color: #00d4ff; border-bottom: 2px solid #00d4ff; padding-bottom: 5px;">🔧 Backend Development :-</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 style="font-family: 'Roboto Mono', 'Source Code Pro', monospace; font-weight: 600; letter-spacing: 1px; color: #00d4ff; border-bottom: 2px solid #00d4ff; padding-bottom: 5px;">🗄️ Databases :-</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 style="font-family: 'Roboto Mono', 'Source Code Pro', monospace; font-weight: 600; letter-spacing: 1px; color: #00d4ff; border-bottom: 2px solid #00d4ff; padding-bottom: 5px;">☁️ Cloud & DevOps :-</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 style="font-family: 'Roboto Mono', 'Source Code Pro', monospace; font-weight: 600; letter-spacing: 1px; color: #00d4ff; border-bottom: 2px solid #00d4ff; padding-bottom: 5px;">🛠️ Tools & Platforms :-</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 <br>
