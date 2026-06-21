@@ -13,14 +13,14 @@
 
 <!-- ═════════════════════════ HERO HEADER ═════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Raj%20Tamboli&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=3rd%20Yr%20CS%20Undergrad%20%7C%20Java%20%26%20Python%20Dev%20%7C%20Linux%20Nerd%20%7C%20Networking%20Savvy&descFontColor=7aa2f7&descAlignY=58&descFontSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Raj%20Tamboli&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20%7C%20Python%20Dev%20%7C%20Linux%20%7C%20Networking%20Savvy&descFontColor=7aa2f7&descAlignY=58&descFontSize=15" />
 
 <br/>
 
 <div align="center">
 
 <!-- ─── Typing SVG Animation ─── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=48&lines=AI+Engineer+in+the+Making+%F0%9F%A4%96;Java+Developer+%E2%98%95;Full+Stack+Developer+%F0%9F%8C%90;Open+Source+Enthusiast+%F0%9F%90%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3500&pause=1200&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=1000&lines=Building+The+Future%2C+One+Commit+At+A+Time.;Software+Engineer.;Backend+Developer.;Problem+Solver.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -185,28 +185,11 @@
 </div>
 </details>
 
----
+<br>
+</br>
 
-<!-- ═════════════════════════ GITHUB STATS ═════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAJ0026&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=1a1b2e&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5" width="48%" alt="GitHub Stats" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=RAJ0026&theme=tokyo-night&hide_border=true&background=1a1b2e&stroke=7aa2f7&ring=7dcfff&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89" width="48%" alt="Streak Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ0026&layout=compact&theme=tokyo-night&hide_border=true&langs_count=10&bg_color=1a1b2e&title_color=7aa2f7&text_color=c0caf5" width="50%" alt="Top Languages" />
-
-</div>
-
----
 
 <!-- ═════════════════════════ ACTIVITY GRAPH ═════════════════════════ -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -216,7 +199,8 @@
 </div>
 
 ---
-
+<br>
+</br>
 <!-- ═════════════════════════ TROPHIES ═════════════════════════ -->
 
 ## 🏆 GitHub Trophies
@@ -228,7 +212,8 @@
 </div>
 
 ---
-
+<br>
+</br>
 <!-- ═════════════════════════ 3D CONTRIBUTION GRAPH ═════════════════════════ -->
 
 ## 🌐 3D Contribution Calendar
@@ -271,7 +256,8 @@
 </div>
 
 ---
-
+<br>
+</br>
 <!-- ═════════════════════════ CONNECT ═════════════════════════ -->
 
 ## 🌐 Let's Connect!
