@@ -1,0 +1,31 @@
+name: 🌐 Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"    # Regenerates daily at 6 PM UTC
+  workflow_dispatch:           # Lets you trigger it manually from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push 3D Graph
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "🌐 Update 3D contribution graph [skip ci]"
+          git push
