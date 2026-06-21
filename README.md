@@ -1,16 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════╗
-║                 RAJ TAMBOLI — PREMIUM GITHUB PROFILE README              ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  SETUP CHECKLIST (do these before pushing):                              ║
-║  1. Replace every "RAJ0026" below with your actual GitHub username       ║
-║  2. Confirm your Twitter/X handle — update "rajtamboli" if different     ║
-║  3. Fill in your real project names + repo links in the Projects table   ║
-║  4. Copy both workflow files into  .github/workflows/  in your repo      ║
-║  5. After first push → Actions tab → run each workflow manually once     ║
-╚══════════════════════════════════════════════════════════════════════════╝
--->
-
 <!-- ═════════════════════════ HERO HEADER ═════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Raj%20Tamboli&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20%7C%20Python%20Dev%20%7C%20Linux%20%7C%20Networking%20Savvy&descFontColor=7aa2f7&descAlignY=58&descFontSize=15" />
@@ -46,13 +33,13 @@
 │                                                          │
 │   raj@linux:~$ cat about_me.txt                          │
 │                                                          │
-│   Name      : Raj Tamboli                               │
-│   Role      : B.Tech Computer Engineering (3rd Year)    │
-│   Core      : Java • Spring Boot • Python • C/C++ • JS  │
+│   Name      : Raj Tamboli                                │
+│   Role      : B.Tech Computer Engineering (3rd Year)     │
+│   Core      : Java • Spring Boot • Python • C/C++ • JS   │
 │   Specialty : Backend Dev • Bash/Shell • Networking      │
-│   Shell     : Bash 5.x on Linux  (yes, btw I use Linux) │
+│   Shell     : Bash 5.x on Linux  (yes, btw I use Linux)  │
 │   Email     : rajtamboli.0026@gmail.com                  │
-│   Status    : Learning → Building → Improving → Repeat  │
+│   Status    : Learning → Building → Improving → Repeat   │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -188,16 +175,6 @@
 <br>
 </br>
 
-
-<!-- ═════════════════════════ ACTIVITY GRAPH ═════════════════════════ -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAJ0026&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7&color=7dcfff&line=7aa2f7&point=c0caf5&bg_color=1a1b2e)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ---
 <br>
 </br>
@@ -274,7 +251,7 @@
 <br/>
 
 <div align="center">
-  <i>💡 Open to internships, collabs & open-source contributions — let's build together!</i>
+  <i>💡 Open to Internships, collabs & open-source contributions — let's build together!</i>
 </div>
 
 ---
