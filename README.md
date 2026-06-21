@@ -76,9 +76,9 @@
 
 | 🏗️ Project | 📝 Description | 🔗 |
 |:-----------|:--------------|:---|
-| **Project Name 1** | *(Add a short description here)* | [→ View Repo](https://github.com/RAJ0026/repo-name-1) |
-| **Project Name 2** | *(Add a short description here)* | [→ View Repo](https://github.com/RAJ0026/repo-name-2) |
-| **Project Name 3** | *(Add a short description here)* | [→ View Repo](https://github.com/RAJ0026/repo-name-3) |
+| **AI Story Teller: From Text to Visual Tales** | *Video, Audio, With Interactive Stories* | [→ View Repo](https://github.com/RAJ0026/Ai_Story_Generator_Visual_Audio.git) |
+| **Upcoming Project** | *(description)* | [→ View Repo](https://github.com/RAJ0026) |
+| **Upcoming Project** | *(description)* | [→ View Repo](https://github.com/RAJ0026) |
 
 ---
 
@@ -264,8 +264,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RAJ0026)
-[![Twitter / X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rajtamboli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-tamboli)
+[![Twitter / X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@26Tamboli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajtamboli.0026@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJ0026)
 
@@ -284,5 +284,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 <div align="center">
-  <sub>⭐ Drop a star if you find something useful &nbsp;|&nbsp; Made with ❤️ by Raj Tamboli</sub>
+  <sub>⭐ Drop a star if you find something useful &nbsp;</sub>
 </div>
