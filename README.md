@@ -49,7 +49,7 @@
 - 💻 **Proficient in C, C++, HTML5, CSS & JavaScript**
 - 🐧 **Bash & Shell Scripting Pro** — automation is life
 - 🌐 **Linux Power User | Networking Savvy** — from protocols to subnetting
-- 🤖 **Exploring Generative AI, Docker & Kubernetes**
+- 🤖 **Dreaming to be FullStack Java Developer**
 - 🚀 **Always learning, always building, always shipping**
 - 📬 Reach me: **rajtamboli.0026@gmail.com**
 
