@@ -51,7 +51,7 @@
 - 🌐 **Linux Power User | Networking Savvy** — from protocols to subnetting
 - 🤖 **Dreaming to be FullStack Java Developer**
 - 🚀 **Always learning, always building, always shipping**
-- 📬 Reach me: **rajtamboli.tech@gmail.com**
+- 📬 Reach me: **tamboliraj.7870@gmail.com**
 
 ---
 
