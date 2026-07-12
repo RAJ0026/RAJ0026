@@ -38,7 +38,7 @@
 │   Core      : Java • Spring Boot • Python • C/C++ • JS   │
 │   Specialty : Backend Dev • Bash/Shell • Networking      │
 │   Shell     : Bash 5.x on Linux  (yes, btw I use Linux)  │
-│   Email     : rajtamboli.0026@gmail.com                  │
+│   Email     : tamboliraj.7870@gmail.com                  │
 │   Status    : Learning → Building → Improving → Repeat   │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
