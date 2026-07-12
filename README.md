@@ -131,7 +131,6 @@
       <h3 style="font-family: 'Roboto Mono', 'Source Code Pro', monospace; font-weight: 600; letter-spacing: 1px; color: #00d4ff; border-bottom: 2px solid #00d4ff; padding-bottom: 5px;">☁️ Cloud & DevOps :-</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
         <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
       </p>
