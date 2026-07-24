@@ -44,7 +44,6 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-- 🎓 **3rd Year B.Tech Computer Engineering Student**
 - ☕ **Java (Spring Boot) & Python Developer** — backend is my playground
 - 💻 **Proficient in C, C++, HTML5, CSS & JavaScript**
 - 🐧 **Bash & Shell Scripting Pro** — automation is life
