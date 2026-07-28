@@ -234,5 +234,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 <div align="center">
-  <sub>⭐ Drop a star if you find something useful &nbsp;</sub>
+  <sub>Follow me if you find something useful &nbsp;</sub>
 </div>
