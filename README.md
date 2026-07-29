@@ -224,7 +224,7 @@
 <br/>
 
 <div align="center">
-  <i>💡 Open to Internships, collabs & open-source contributions — let's build together!</i>
+  <i>💡 Open to Internships, collabs & open-source contributions — let's build together!!</i>
 </div>
 
 ---
